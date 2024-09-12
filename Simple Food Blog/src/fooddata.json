@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "name": "Adobo",
+        "img": "./image/adobo.jpg",
+        "description": "A classic dish influenced by the Spanish! Adobo refers to a common cooking process indigenous to the Philippines. Its main ingredients are those native to Southeast Asia - vinegar, soy sauce or patis (fish sauce), black peppercorns and cinnamomum tamala leaves. The dish is normally cooked with pork or chicken, and sometimes with only vegetables like kangkong (water spinach) or sitaw (green beans).",
+        "recipe": "basta karne"
+    },
+    {
+        "id": 2,
+        "name": "Lechon",
+        "img": "../image/sinigang.jpg",
+        "description": "his cherished dish, usually served at celebrations,comes in a number of forms, though its essentials are the same. It's a whole pig, roasted over a charcoal spit. One lechon is from Luzon, home island of the Philippines' capital, Manila, where the pig is roasted with simple salt-and-pepper seasoning, and the meat then dipped in a rich sauce of mashed pigs' liver, vinegar, brown sugar, garlic and onion.",
+        "recipe": "Pork and veggies"
+    },
+    {
+        "id": 3,
+        "name": "Kare-Kare",
+        "img": "../image/adobo.jpg",
+        "description": "Another Filipino favourite that because of its long and involved cooking process is usually reserved for special occasions. It has a long history that goes back hundreds of years. There are many stories as to its origin - one stating is that it came from Pampanga - a province which became known all over the country as the ‘culinary capital of the Philippines’.",
+        "recipe": "basta karne"
+    },
+    {
+        "id": 4,
+        "name": "Sinigang",
+        "img": "../image/sinigang.jpg",
+        "description": "Sinigang with its indigenous origins is one of the country’s oldest dishes, existing long before any colonisers set foot in the country. There are no written records, but it’s likely it was created in the country or from nearby Southeast Asian neighbours, as sour soups are also popular in Malaysia, Indonesia, Vietnam, and Thailand.",
+        "recipe": "Pork and veggies"
+    },
+    {
+        "id": 5,
+        "name": " Pancit",
+        "img": "../image/adobo.jpg",
+        "description": "Pamcit (pansit)  is a term referring to various traditional noodle Filipino dishes. There are numerous types of pancit, which are named based on the type of noodle used, cooking method, place of origin, or the ingredients. Most pancit dishes are characteristically served with calamansi, as its freshly-squeezed juice may be used for seasoning.",
+        "recipe": "basta karne"
+    },
+    {
+        "id": 6,
+        "name": "Halo-Halo",
+        "img": "../image/sinigang.jpg",
+        "description": "Each region has its own version of halo-halo with a host of add-ins - from sago (tapioca pearls in syrup) and macapuno (coconut sport strings in syrup) to colourful kaong (sugar palm fruit jelly). In some places, they even add shredded cheese, cornflakes, or polvorón, a crumbly shortbread flavoured with cashews, pinipig, ube, or chocolate. Everyone can create their own dessert.",
+        "recipe": "Pork and veggies"
+    },
+    {
+        "id": 7,
+        "name": "Lumpia",
+        "img": "../image/adobo.jpg",
+        "description": "Evolved from Chinese spring rolls, Lumpia is a simple and flavourful Filipino snack or side dish. Lumpia consists of a rice or flour dough wrap stuffed with meat often ground pork or beef), and vegetables such as cabbage, carrots, onions, and garlic. It’s then coated with egg wash and deep fried.",
+        "recipe": "basta karne"
+    },
+    {
+        "id": 8,
+        "name": "Puto",
+        "img": "../image/sinigang.jpg",
+        "description": "Puto are Filipino steamed rice cakes — and there are as many varieties as there are regions of the Philippines. They’re traditionally made with ground rice that’s been soaked in water overnight, this version is easy to make at home with rice flour. Eaten alone or as an accompaniment to savoury dishes, such as dinuguan, pancit or sopas.",
+        "recipe": "Pork and veggies"
+    },
+    {
+        "id": 9,
+        "name": "Bibingka",
+        "img": "../image/adobo.jpg",
+        "description": "Bibingka are often sold by street vendors and people serve them with toppings like cheese, butter, grated coconut, margarine, and sugar. Other variations use fruits like pineapple and duck eggs.",
+        "recipe": "basta karne"
+    },
+    {
+        "id": 10,
+        "name": "Cassava cake",
+        "img": "../image/sinigang.jpg",
+        "description": "Cassava cake is a traditional snack cake made with grated cassava, coconut milk, and a layer of molten custard on top. The cake has a soft, slightly chewy texture similar to Hawaiian mochi butter cake and is gluten free.",
+        "recipe": "Pork and veggies"
+    },
+    {
+        "id": 11,
+        "name": "Chicharon",
+        "img": "../image/adobo.jpg",
+        "description": "Chicharon is a popular dish across many Spanish-influenced cultures. Also known as pork cracklings or pork rinds, chicharon in Filipino cuisine is a savory snack or appetizer most often made with crispy fried pork belly, but it can also be made with chicken or beef.",
+        "recipe": "basta karne"
+    },
+    {
+        "id": 12,
+        "name": "Puto",
+        "img": "../image/sinigang.jpg",
+        "description": "Puto are Filipino steamed rice cakes — and there are as many varieties as there are regions of the Philippines. They’re traditionally made with ground rice that’s been soaked in water overnight, this version is easy to make at home with rice flour. Eaten alone or as an accompaniment to savoury dishes, such as dinuguan, pancit or sopas.",
+        "recipe": "Pork and veggies"
+    },
+    {
+        "id": 13,
+        "name": "Lumpia",
+        "img": "../image/adobo.jpg",
+        "description": "Evolved from Chinese spring rolls, Lumpia is a simple and flavourful Filipino snack or side dish. Lumpia consists of a rice or flour dough wrap stuffed with meat often ground pork or beef), and vegetables such as cabbage, carrots, onions, and garlic. It’s then coated with egg wash and deep fried.",
+        "recipe": "basta karne"
+    },
+    {
+        "id": 14,
+        "name": "Puto",
+        "img": "../image/sinigang.jpg",
+        "description": "Puto are Filipino steamed rice cakes — and there are as many varieties as there are regions of the Philippines. They’re traditionally made with ground rice that’s been soaked in water overnight, this version is easy to make at home with rice flour. Eaten alone or as an accompaniment to savoury dishes, such as dinuguan, pancit or sopas.",
+        "recipe": "Pork and veggies"
+    },
+    {
+        "id": 15,
+        "name": "Lumpia",
+        "img": "../image/adobo.jpg",
+        "description": "Evolved from Chinese spring rolls, Lumpia is a simple and flavourful Filipino snack or side dish. Lumpia consists of a rice or flour dough wrap stuffed with meat often ground pork or beef), and vegetables such as cabbage, carrots, onions, and garlic. It’s then coated with egg wash and deep fried.",
+        "recipe": "basta karne"
+    },
+    {
+        "id": 16,
+        "name": "Puto",
+        "img": "../image/sinigang.jpg",
+        "description": "Puto are Filipino steamed rice cakes — and there are as many varieties as there are regions of the Philippines. They’re traditionally made with ground rice that’s been soaked in water overnight, this version is easy to make at home with rice flour. Eaten alone or as an accompaniment to savoury dishes, such as dinuguan, pancit or sopas.",
+        "recipe": "Pork and veggies"
+    },
+    {
+        "id": 17,
+        "name": "Lumpia",
+        "img": "../image/adobo.jpg",
+        "description": "Evolved from Chinese spring rolls, Lumpia is a simple and flavourful Filipino snack or side dish. Lumpia consists of a rice or flour dough wrap stuffed with meat often ground pork or beef), and vegetables such as cabbage, carrots, onions, and garlic. It’s then coated with egg wash and deep fried.",
+        "recipe": "basta karne"
+    },
+    {
+        "id": 18,
+        "name": "Puto",
+        "img": "../image/sinigang.jpg",
+        "description": "Puto are Filipino steamed rice cakes — and there are as many varieties as there are regions of the Philippines. They’re traditionally made with ground rice that’s been soaked in water overnight, this version is easy to make at home with rice flour. Eaten alone or as an accompaniment to savoury dishes, such as dinuguan, pancit or sopas.",
+        "recipe": "Pork and veggies"
+    },
+    {
+        "id": 19,
+        "name": "Lumpia",
+        "img": "../image/adobo.jpg",
+        "description": "Evolved from Chinese spring rolls, Lumpia is a simple and flavourful Filipino snack or side dish. Lumpia consists of a rice or flour dough wrap stuffed with meat often ground pork or beef), and vegetables such as cabbage, carrots, onions, and garlic. It’s then coated with egg wash and deep fried.",
+        "recipe": "basta karne"
+    },
+    {
+        "id": 20,
+        "name": "Puto",
+        "img": "../image/sinigang.jpg",
+        "description": "Puto are Filipino steamed rice cakes — and there are as many varieties as there are regions of the Philippines. They’re traditionally made with ground rice that’s been soaked in water overnight, this version is easy to make at home with rice flour. Eaten alone or as an accompaniment to savoury dishes, such as dinuguan, pancit or sopas.",
+        "recipe": "Pork and veggies"
+    },
+    {
+        "id": 21,
+        "name": "Lumpia",
+        "img": "../image/adobo.jpg",
+        "description": "Evolved from Chinese spring rolls, Lumpia is a simple and flavourful Filipino snack or side dish. Lumpia consists of a rice or flour dough wrap stuffed with meat often ground pork or beef), and vegetables such as cabbage, carrots, onions, and garlic. It’s then coated with egg wash and deep fried.",
+        "recipe": "basta karne"
+    },
+    {
+        "id": 22,
+        "name": "Puto",
+        "img": "../image/sinigang.jpg",
+        "description": "Puto are Filipino steamed rice cakes — and there are as many varieties as there are regions of the Philippines. They’re traditionally made with ground rice that’s been soaked in water overnight, this version is easy to make at home with rice flour. Eaten alone or as an accompaniment to savoury dishes, such as dinuguan, pancit or sopas.",
+        "recipe": "Pork and veggies"
+    },
+    {
+        "id": 23,
+        "name": "Lumpia",
+        "img": "../image/adobo.jpg",
+        "description": "Evolved from Chinese spring rolls, Lumpia is a simple and flavourful Filipino snack or side dish. Lumpia consists of a rice or flour dough wrap stuffed with meat often ground pork or beef), and vegetables such as cabbage, carrots, onions, and garlic. It’s then coated with egg wash and deep fried.",
+        "recipe": "basta karne"
+    },
+    {
+        "id": 24,
+        "name": "Puto",
+        "img": "../image/sinigang.jpg",
+        "description": "Puto are Filipino steamed rice cakes — and there are as many varieties as there are regions of the Philippines. They’re traditionally made with ground rice that’s been soaked in water overnight, this version is easy to make at home with rice flour. Eaten alone or as an accompaniment to savoury dishes, such as dinuguan, pancit or sopas.",
+        "recipe": "Pork and veggies"
+    },
+    {
+        "id": 25,
+        "name": "Lumpia",
+        "img": "../image/adobo.jpg",
+        "description": "Evolved from Chinese spring rolls, Lumpia is a simple and flavourful Filipino snack or side dish. Lumpia consists of a rice or flour dough wrap stuffed with meat often ground pork or beef), and vegetables such as cabbage, carrots, onions, and garlic. It’s then coated with egg wash and deep fried.",
+        "recipe": "basta karne"
+    },
+    {
+        "id": 26,
+        "name": "Puto",
+        "img": "../image/sinigang.jpg",
+        "description": "Puto are Filipino steamed rice cakes — and there are as many varieties as there are regions of the Philippines. They’re traditionally made with ground rice that’s been soaked in water overnight, this version is easy to make at home with rice flour. Eaten alone or as an accompaniment to savoury dishes, such as dinuguan, pancit or sopas.",
+        "recipe": "Pork and veggies"
+    },
+    {
+        "id": 27,
+        "name": "Lumpia",
+        "img": "../image/adobo.jpg",
+        "description": "Evolved from Chinese spring rolls, Lumpia is a simple and flavourful Filipino snack or side dish. Lumpia consists of a rice or flour dough wrap stuffed with meat often ground pork or beef), and vegetables such as cabbage, carrots, onions, and garlic. It’s then coated with egg wash and deep fried.",
+        "recipe": "basta karne"
+    },
+    {
+        "id": 28,
+        "name": "Puto",
+        "img": "../image/sinigang.jpg",
+        "description": "Puto are Filipino steamed rice cakes — and there are as many varieties as there are regions of the Philippines. They’re traditionally made with ground rice that’s been soaked in water overnight, this version is easy to make at home with rice flour. Eaten alone or as an accompaniment to savoury dishes, such as dinuguan, pancit or sopas.",
+        "recipe": "Pork and veggies"
+    },
+    {
+        "id": 29,
+        "name": "Lumpia",
+        "img": "../image/adobo.jpg",
+        "description": "Evolved from Chinese spring rolls, Lumpia is a simple and flavourful Filipino snack or side dish. Lumpia consists of a rice or flour dough wrap stuffed with meat often ground pork or beef), and vegetables such as cabbage, carrots, onions, and garlic. It’s then coated with egg wash and deep fried.",
+        "recipe": "basta karne"
+    },
+    {
+        "id": 30,
+        "name": "Puto",
+        "img": "../image/sinigang.jpg",
+        "description": "Puto are Filipino steamed rice cakes — and there are as many varieties as there are regions of the Philippines. They’re traditionally made with ground rice that’s been soaked in water overnight, this version is easy to make at home with rice flour. Eaten alone or as an accompaniment to savoury dishes, such as dinuguan, pancit or sopas.",
+        "recipe": "Pork and veggies"
+    } 
+]

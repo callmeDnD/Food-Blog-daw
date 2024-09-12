@@ -1,0 +1,64 @@
+
+.topten-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .item-card {
+    border-radius: 5px;
+    position: relative;
+    margin: 20px;
+    background-color: rgba(245, 245, 245, 0.779);
+  }
+  .item-card h1{
+    padding: 1rem;
+    font-family: "Playwrite CU", cursive;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+  }
+
+  .top-ten-wrapper{
+    background-color: rgba(7, 162, 115, 0.525);
+  }
+  
+  .image-container {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .item-image {
+    display: block;
+    width: 15rem;
+    height: auto;
+  }
+  
+  .description-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-family: "Raleway", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 13px;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .image-container:hover .description-overlay {
+    opacity: 1;
+  }
+  .header h1{
+    padding: 2rem;
+    font-family: "Rubik", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+  }

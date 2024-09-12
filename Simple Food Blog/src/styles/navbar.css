@@ -1,0 +1,37 @@
+
+.navbar{
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(7, 162, 115, 0.953);
+    position: fixed;
+    width: 100vw;
+    z-index: 1;
+
+}
+.navbar h1{
+    color: white;
+    margin-left: 10rem;
+    font-family: "Playwrite CU", cursive;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+}
+ul {
+    display: flex;
+    padding: 1rem;
+    margin-right: 10rem;
+}
+ul li {
+    margin-right: 3rem;
+    list-style-type: none;
+}
+ul li a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 19px;
+    font-family: "Rubik", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+}

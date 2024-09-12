@@ -1,0 +1,32 @@
+.container{
+  justify-content: center;
+  align-items: center;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 5rem;
+  background-color: rgb(252, 244, 244);
+  height: 80vh;
+}
+.container h1 {
+    font-size: 3rem;
+    font-family: "Playwrite CU", cursive;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+.content p {
+    font-family: "Raleway", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 1.5rem
+}
+.content img{
+    margin-left: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 20rem;
+    width: 30rem;
+    border-radius: 1rem;
+}
